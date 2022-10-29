@@ -1,0 +1,10 @@
+Colaborador
+ [x] Colaborador deve receber resposta correta do sistema with data set "colaborador-ja-tem-bolinho"
+ [x] Colaborador deve receber resposta correta do sistema with data set "colaborador-pegou-bolinho"
+ [x] Colaborador deve receber resposta correta do sistema with data set "dispensa-vazia"
+
+Colaborador (App\Tests\Models\Colaborador)
+ [x] Colaborador deve conseguir pegar bolinho
+ [x] Colaborador não deve conseguir pegar mais de um bolinho
+ [x] Colaborador deve pedir reposicao caso dispensa esteja vazia
+
